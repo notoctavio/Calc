@@ -31,6 +31,7 @@ body {
     background-color: white;
     font-size: 32px;
     text-align: right;
+    overflow-wrap: anywhere;
 }
 
 .button-row {
